@@ -41,7 +41,7 @@ typedef enum
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    _listOfUsers = @{ @"u" : @"p"};
+    _listOfUsers = @{ @"username" : @"password"};
     
     // textFields
     
